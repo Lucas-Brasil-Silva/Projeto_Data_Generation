@@ -1,0 +1,13 @@
+Segui os dados gerados:
+['Davi']
+['emily.johnson@protonmail.com']
+['(71) 7776-8888']
+['Maracaju']
+['Rondônia']
+
+Segui os dados gerados:
+['Arthur', 'Bernardo']
+['lucassilva@mail.com', 'lucassilva@protonmail.com']
+['(28) 8878-9999', '(42) 2224-3333']
+['Serra Talhada', 'Ijuí']
+['Acre', 'Amazonas']
